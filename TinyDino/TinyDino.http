@@ -1,0 +1,6 @@
+@TinyDino_HostAddress = http://localhost:5195
+
+GET {{TinyDino_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
